@@ -1,0 +1,21 @@
+{
+  "name": "challenge1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "express": "^4.16.4",
+    "redis": "^2.8.0",
+    "url": "^0.11.0"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
